@@ -1,0 +1,178 @@
+[
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spends $40 on t-shirts. She then spends half of this amount on jeans, which is $40 / 2 = $20. She spends twice this amount on coats, which is $20 * 2 = $40. So far, Lisa has spent $40 + $20 + $40 = $100. Carly spends a quarter as much as Lisa on t-shirts, which is $40 / 4 = $10. She spends 3 times as much on jeans as Lisa, so that's $20 * 3 = $60. She spends a quarter of the amount Lisa spent on coats, which is $40 / 4 = $10. So far, Carly has spent $10 + $60 + $10 = $80. Adding Lisa and Carly's total spending, we get $100 + $80 = $180. </think> <answer> 180 </answer>",
+    "ground_truth": "230",
+    "length": 188,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spent $40 on t-shirts. She then spent half of this amount on jeans, which is 40 / 2 = $20. She also spent twice the amount on jeans, so that's 20 * 2 = $40 on jeans. In total, Lisa spent 40 (t-shirts) + 40 (jeans) = $80. Carly spent a quarter as much as Lisa on t-shirts, so that's 40 / 4 = $10 on t-shirts. She spent 3 times as much on jeans as Lisa, so that's 3 * 40 = $120 on jeans. She also spent a quarter of the amount Lisa spent on coats, which is 40 / 4 = $10 on coats. In total, Carly spent 10 (t-shirts) + 120 (jeans) + 10 (coats) = $140. Therefore, Lisa and Carly spent a total of 80 (Lisa's total) + 140 (Carly's total) = $220. </think> <answer> 220 </answer>",
+    "ground_truth": "230",
+    "length": 222,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spent $40 on t-shirts. She then spent half of this amount on jeans, which is 40 / 2 = $20. She spent twice this amount on coats, which is 20 * 2 = $40. So far, Lisa has spent 40 + 20 + 40 = $100. Carly spends a quarter as much as Lisa on t-shirts, which is 40 / 4 = $10. Carly spends 3 times as much on jeans as Lisa, which is 3 * 20 = $60. Carly spends a quarter of the amount Lisa spent on coats, which is 40 / 4 = $10. So far, Carly has spent 10 + 60 + 10 = $80. Adding Lisa and Carly's expenses together, we get 100 + 80 = $180. </think> <answer> 180 </answer>",
+    "ground_truth": "230",
+    "length": 183,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spent $40 on t-shirts. She then spent half of this amount on jeans, which is $40 / 2 = $20. She spent twice as much on coats as she did on t- shirts, so that's 2 * $40 = $80 on coats. In total, Lisa spent $40 + $20 + $80 = $140. Carly spent a quarter as much as Lisa on t- shirts, so that's $40 / 4 = $10 on t- shirts. She spent 3 times as much on jeans as Lisa, so that's 3 * $20 = $60 on jeans. She spent a quarter of what Lisa spent on coats, which is $80 / 4 = $20 on coats. In total, Carly spent $10 + $60 + $20 = $90. To find out how much they spent in total, we add Lisa's and Carly's expenses together: $140 + $90 = $230. </think> <answer> 230",
+    "ground_truth": "230",
+    "length": 211,
+    "finish_reason": "stop",
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spends $40 on t-shirts. She spends half of this amount on jeans, which is $40 / 2 = $20. She spends twice this amount on coats, so that's $20 * 2 = $40. In total, Lisa spends $40 on t-shirts + $20 on jeans + $40 on coats = $100. Carly spends a quarter as much as Lisa on t-shirts, so that's $40 / 4 = $10 on t-shirts. Carly spends 3 times as much on jeans as Lisa, so that's $20 * 3 = $60 on jeans. She spends a quarter of the amount Lisa spent on coats, which is $40 / 4 = $10 on coats. In total, Carly spends $10 on t-shirts + $60 on jeans + $10 on coats = $80. Together, Lisa and Carly spend $100 + $80 = $180 in total. </think> <answer> 180 </answer>",
+    "ground_truth": "230",
+    "length": 202,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spends $40 on t-shirts. She spends half of this amount on jeans, which is $40 / 2 = $20. She then spends twice the amount on coats, which is 2 * $40 = $80. In total, Lisa spends $40 + $20 + $80 = $140. Carly spends a quarter as much as Lisa on t-shirts, so that's $40 / 4 = $10. She spends 3 times as much on jeans as Lisa, which is 3 * $20 = $60. She also spends a quarter of the amount Lisa spent on coats, which is $80 / 4 = $20. In total, Carly spends $10 + $60 + $20 = $90. Together, Lisa and Carly spend $140 + $90 = $230 in total. </think> <answer> 230 </answer>",
+    "ground_truth": "230",
+    "length": 181,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spends $40 on t-shirts. She spends half of this amount on jeans, which is $40 / 2 = $20. She spends twice as much on coats as she did on jeans, so that's $20 * 2 = $40. In total, Lisa spends $40 + $20 + $40 = $100. Carly spends a quarter as much as Lisa on t-shirts, so that's $40 / 4 = $10. Carly spends 3 times as much on jeans as Lisa, so that's $20 * 3 = $60. She spends a quarter of the amount Lisa spent on coats, which is $40 / 4 = $10. In total, Carly spends $10 + $60 + $10 = $80. Together, Lisa and Carly spend $100 + $80 = $180 in total. </think> <answer> 180 </answer>",
+    "ground_truth": "230",
+    "length": 186,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+    "response": " Lisa spent $40 on t-shirts. She then spent half of this amount on jeans, which is $40 / 2 = $20. She also spent twice the amount on jeans, so that's $20 * 2 = $40 on jeans. In total, Lisa spent $40 + $20 + $40 = $100 on t-shirts, jeans, and coats. Carly spent a quarter as much as Lisa on t-shirts, so that's $40 / 4 = $10 on t-shirts. She spent 3 times as much on jeans as Lisa, so that's $40 * 3 = $120 on jeans. She also spent a quarter of the amount Lisa spent on coats, which is $40 / 4 = $10 on coats. In total, Carly spent $10 + $120 + $10 = $140 on t-shirts, jeans, and coats. Together, Lisa and Carly spent $100 + $140 = $240 in total. </think> <answer> 240 </answer>",
+    "ground_truth": "230",
+    "length": 209,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, each weighing 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find 20% of 300 pounds, we calculate 300 * 0.20 = 60 pounds. So, the weights felt 60 pounds heavier when being lowered. Therefore, the weight felt when being lowered is 300 + 60 = 360 pounds.</think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 113,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, and each plate weighs 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find 20% of 300 pounds, we calculate 300 * 0.20 = 60 pounds. So, the weights feel 60 pounds heavier when being lowered. The total weight when being lowered is 300 pounds + 60 pounds = 360 pounds. </think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 116,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, and each plate weighs 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find 20% of 300 pounds, we calculate 20/100 * 300 = 60 pounds. So, the weights feel 60 pounds heavier when being lowered. Therefore, the total weight when being lowered is 300 + 60 = 360 pounds. </think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 116,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, each weighing 30 pounds. So, the total weight without the special technology is 10 * 30 = 300 pounds. The special technology makes the weights 20% heavier, so they become 300 * 1.2 = 360 pounds when being lowered. Now, we need to divide this by the number of plates to find the weight per plate, which is 360 / 10 = 36 pounds per plate. Since there are 10 plates, the total weight when being lowered is 10 * 36 = 360 pounds. </think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 130,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, and each plate weighs 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find 20% of 300 pounds, we calculate 20/100 * 300 = 60 pounds. So, the weights feel 300 + 60 = 360 pounds when being lowered. </think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 102,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, and each plate weighs 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find 20% of 300 pounds, we calculate 20/100 * 300 = 60 pounds. So, the weights feel 60 pounds heavier when being lowered. Therefore, the weight that feels heavy is 300 pounds + 60 pounds = 360 pounds.</think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 116,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, and each plate weighs 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find 20% of 300 pounds, we calculate 20/100 * 300 = 60 pounds. So, the weights feel 60 pounds heavier when being lowered. Therefore, the weight feels like 300 + 60 = 360 pounds when being lowered. </think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 116,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 200,
+    "question": "Tom uses 10 weight plates each weighing 30 pounds on an exercise machine.  This exercise machine uses special technology to make the weights 20% heavier on the lowering portion.  How heavy did the weights feel when being lowered?",
+    "response": " Tom uses 10 weight plates, each weighing 30 pounds. So, the total weight of the plates is 10 * 30 = 300 pounds. The exercise machine makes the weights 20% heavier on the lowering portion. To find out how much heavier, we calculate 20% of 300 pounds, which is 0.20 * 300 = 60 pounds. So, the weights feel 60 pounds heavier when being lowered. Therefore, the weight felt when being lowered is 300 pounds + 60 pounds = 360 pounds.</think> <answer> 360 </answer>",
+    "ground_truth": "360",
+    "length": 122,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  }
+]

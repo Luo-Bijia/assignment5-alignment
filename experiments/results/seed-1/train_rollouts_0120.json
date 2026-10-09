@@ -1,0 +1,178 @@
+[
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If Madeline has 63 colored pencils and that's half of what Cheryl has, then Cheryl has 63 * 2 = 126 colored pencils. Since Cheryl has three times as many as Cyrus, Cyrus has 126 / 3 = 42 colored pencils. Together, Cheryl, Cyrus, and Madeline have 42 + 63 + 126 = 225 colored pencils. </think> <answer> 225 </answer>",
+    "ground_truth": "231",
+    "length": 100,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If we let the number of colored pencils Cyrus has be Y, then Cheryl has 3Y pencils. Madeline has 63 colored pencils and half of what Cheryl has, so Madeline has 63 / 2 = 31.5 colored pencils. Together, Cyrus, Cheryl, and Madeline have Y + 3Y + 31.5 = 4Y + 31.5 = 4Y + 31.5 = 63 / 2 = 31.5 colored pencils. </think> <answer> 31.5 </answer>",
+    "ground_truth": "231",
+    "length": 128,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If Madeline has half of what Cheryl has, and Madeline has 63 colored pencils, then Cheryl has 63 * 2 = 126 colored pencils. Since Cheryl has thrice as many as Cyrus, Cyrus has 126 / 3 = 42 colored pencils. Together, Cheryl, Cyrus, and Madeline have 126 + 63 + 42 = 231 colored pencils. </think> <answer> 231 </answer>",
+    "ground_truth": "231",
+    "length": 102,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If Madeline has 63 colored pencils and that's half of what Cheryl has, then Cheryl has 63 * 2 = 126 colored pencils. Since Cheryl has thrice as many as Cyrus, Cyrus has 126 / 3 = 42 colored pencils. Altogether, the three of them have 63 + 126 + 42 = 231 colored pencils. </think> <answer> 231 </answer>",
+    "ground_truth": "231",
+    "length": 98,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If Madie has 63 colored pencils and that's half of what Cheryl has, then Cheryl has 63 * 2 = 126 colored pencils. Since Cheryl has thrice as many as Cyrus, Cyrus has 126 / 3 = 42 colored pencils. Altogether, Cyrus, Cheryl, and Madeline have 42 + 126 + 63 = 231 colored pencils. </think> <answer> 231 </answer>",
+    "ground_truth": "231",
+    "length": 101,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If Madeline has only half of what Cheryl has, then Madeline has 63 / 2 = 31.5 colored pencils. Since the number of pencils must be a whole number, and we are given that Cheryl has thrice as many as Cyrus, let's assume Cyrus has C pencils. Then Cheryl has 3C pencils. Madeline has 31.5 pencils, which is half of Cheryl's, so 31.5 = 0.5 * 3C. Solving for C, we get C = 63. Therefore, Cyrus has 63 pencils, Cheryl has 3 * 63 = 183 pencils, and Madeline has 31.5 pencils. Altogether, they have 63 + 183 + 31.5 = 267.5 pencils. </think> <answer> 267.5 </answer>",
+    "ground_truth": "231",
+    "length": 188,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If Madeline has half of what Cheryl has, then Madeline has 63 / 2 = 31.5 colored pencils. Together, Cheryl and Madeline have 63 + 31.5 = 94.5 colored pencils. Since Cheryl has thrice as many as Cyrus, Cyrus has 94.5 / 3 = 33. Synthetically, we can say that the total number of colored pencils the three have together is 94.5 + 31.5 = 126. </think> <answer> 126 </answer>",
+    "ground_truth": "231",
+    "length": 126,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Cheryl has thrice as many colored pencils as Cyrus. Madeline has 63 colored pencils and only half of what Cheryl has. How many colored pencils do the three of them have altogether?",
+    "response": " Cheryl has thrice as many colored pencils as Cyrus. If we let the number of colored pencils Cyrus has be C, then Cheryl has 3C colored pencils. Madeline has 63 colored pencils and half of what Cheryl has, so Madeline has 63 / 2 = 31.5 colored pencils. Together, Cheryl, Cyrus, and Madeline have C + 3C + 31.5 = 4C + 31.5 = 4(63/2) = 4 * 31.5 = 127. Replacing C in the equation, we get 127 = 4C, so C = 127 / 4 = 31.75. Therefore, Cyrus has 31.75 colored pencils. The total number of colored pencils the three have together is 31.75 + 3 * 31.75 + 63 = 31.75 + 3 * 31.75 + 63 = 31.75 + 93.25 + 63 = 187.5. </think> <answer> 187.5",
+    "ground_truth": "231",
+    "length": 226,
+    "finish_reason": "stop",
+    "format_reward": 0.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " Initially, Brian can hold his breath for 10 seconds. After a week, he doubles this time, so he can now hold his breath for 10 * 2 = 20 seconds. After another week, he doubles this time again, so he can now hold his breath for 20 * 2 = 40 seconds. In the final week, he increases this time by 50%, which means he can now hold his breath for 40 * 1.5 = 60 seconds. So, Brian can now hold his breath for 60 seconds. </think> <answer> 60 </answer>",
+    "ground_truth": "60",
+    "length": 125,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " He can hold his breath for 10 seconds in the first week. After a week, he can do it for 10 * 2 = 20 seconds. After another week, he can do it for 20 * 2 = 40 seconds. In the final week, he can do it for 40 * 1.5 = 60 seconds. So, the total time he can hold his breath for now is 10 + 20 + 40 + 60 = 130 seconds.</think> <answer> 130 </answer>",
+    "ground_truth": "60",
+    "length": 113,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " After the first week, he can hold his breath for 10 * 2 = 20 seconds. After the second week, he can hold his breath for 20 * 2 = 40 seconds. After the third week, he can hold his breath for 40 * 2 = 80 seconds. In the final week, he increases it by 50% of 80 seconds, which is 80 * 0.5 = 40 seconds. So, the total time he can hold his breath now is 20 + 40 + 80 = 140 seconds. </think> <answer> 140 </answer>",
+    "ground_truth": "60",
+    "length": 130,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " He can hold his breath for 10 seconds on the first day. On the second day, he doubles it, so 10 * 2 = 20 seconds. On the third day, he doubles it again, so 20 * 2 = 40 seconds. On the fourth day, he increases it by 50% of the previous day's time, which is 40 * 0.5 = 20 seconds. So, the total time he can hold his breath now is 10 + 20 + 40 + 20 = 90 seconds. </think> <answer> 90 </answer>",
+    "ground_truth": "60",
+    "length": 127,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 0.0,
+    "reward": 0.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " He can hold his breath for 10 seconds in the first week. After a week, he doubles this time, so he can hold his breath for 10 * 2 = 20 seconds. After another week, he doubles this time again, so he can hold his breath for 20 * 2 = 40 seconds. In the final week, he increases this time by 50%, so he can hold his breath for 40 * 1.5 = 60 seconds now. </think> <answer> 60 </answer>",
+    "ground_truth": "60",
+    "length": 111,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " After the first week, he can hold his breath for 10 * 2 = 20 seconds. After the second week, he can hold it for 20 * 2 = 40 seconds. After the final week, he can hold it for 40 * 1.5 = 60 seconds. So, Brian can now hold his breath for 60 seconds. </think> <answer> 60 </answer>",
+    "ground_truth": "60",
+    "length": 87,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " He can hold his breath for 10 seconds on the first day. After a week, he can hold it for 10 * 2 = 20 seconds. After another week, he can hold it for 20 * 2 = 40 seconds. In the final week, he increases it by 50% from the previous week, so it becomes 40 * 1.5 = 60 seconds. So, Brian can now hold his breath for 60 seconds. </think> <answer> 60 </answer>",
+    "ground_truth": "60",
+    "length": 108,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  },
+  {
+    "step": 120,
+    "question": "Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
+    "response": " He can hold his breath for 10 seconds now. After the first week, he doubles it, so 10 * 2 = 20 seconds. After the second week, he doubles it again from the previous week, so 20 * 2 = 40 seconds. After the final week, he increases it by 50% from the previous week, so 40 * 1.5 = 60 seconds. </think> <answer> 60 </answer>",
+    "ground_truth": "60",
+    "length": 97,
+    "finish_reason": "stop",
+    "format_reward": 1.0,
+    "answer_reward": 1.0,
+    "reward": 1.0
+  }
+]

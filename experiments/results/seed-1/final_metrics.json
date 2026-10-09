@@ -1,0 +1,7 @@
+{
+  "val/reward": 0.4970703125,
+  "val/format_reward": 0.91796875,
+  "val/answer_reward": 0.4970703125,
+  "val/avg_response_length": 133.6923828125,
+  "val/truncation_fraction": 0.01171875
+}
