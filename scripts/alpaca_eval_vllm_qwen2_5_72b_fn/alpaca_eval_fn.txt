@@ -1,0 +1,30 @@
+<|im_start|>system
+You are a helpful assistant that ranks models by the quality of their answers.<|im_end|>
+<|im_start|>user
+I want you to create a leaderboard of different large language models. To do so, I will give you the instructions (prompts) given to the models, and the responses of two models. Please rank the models based on which responses would be preferred by humans.
+
+Here is the prompt:
+{
+    "instruction": """{instruction}""",
+}
+
+Here are the outputs of the models:
+[
+    {
+        "model": "model_1",
+        "answer": """{output_1}"""
+    },
+    {
+        "model": "model_2",
+        "answer": """{output_2}"""
+    }
+]
+
+Now please rank the models by the quality of their answers, so that the model with rank 1 has the best output. Then return a list of the model names and ranks, i.e., produce the following output:
+[
+    {'model': <model-name>, 'rank': <model-rank>},
+    {'model': <model-name>, 'rank': <model-rank>}
+]
+
+Return only a valid list of two dictionaries. Each dictionary must contain exactly the keys "model" and "rank". Use the model names "model_1" and "model_2", and assign ranks 1 and 2, where rank 1 is better. Do not include explanations, Markdown code fences, or any text outside the list. Please provide the ranking that the majority of humans would give.<|im_end|>
+<|im_start|>assistant

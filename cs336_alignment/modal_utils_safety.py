@@ -27,8 +27,8 @@ SHARED_VOLUME_MOUNT_PATH = "/mnt/cs336-a5-supplement"
 RESULTS_VOLUME_NAME = f"cs336-a5-supplement-results-{SUNET_ID}"
 RESULTS_VOLUME_MOUNT_PATH = "/mnt/cs336-a5-supplement-results"
 
-BASE_MODEL_PATH = f"{SHARED_VOLUME_MOUNT_PATH}/models/Meta-Llama-3.1-8B"
-JUDGE_MODEL_PATH = f"{SHARED_VOLUME_MOUNT_PATH}/models/Llama-3.3-70B-Instruct"
+BASE_MODEL_PATH = f"{SHARED_VOLUME_MOUNT_PATH}/models/Qwen2.5-7B"
+JUDGE_MODEL_PATH = f"{SHARED_VOLUME_MOUNT_PATH}/models/Qwen2.5-72B-Instruct"
 SFT_DATA_DIR = (
     f"{SHARED_VOLUME_MOUNT_PATH}/data/safety_augmented_ultrachat_200k_single_turn"
 )

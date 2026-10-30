@@ -1,12 +1,12 @@
 """
-Use LLaMA-70B to determine the number of responses that are safe.
+Use Qwen2.5-72B-Instruct to determine the number of responses that are safe.
 
 Running:
 
 ```
 python scripts/evaluate_safety.py \
     --input-path <path_to_predictions.jsonl> \
-    --model-name-or-path "/mnt/cs336-a5-supplement/models/Llama-3.3-70B-Instruct" \
+    --model-name-or-path "/mnt/cs336-a5-supplement/models/Qwen2.5-72B-Instruct" \
     --num-gpus 2 \
     --output-path <path_to_write_output.jsonl>
 ```
@@ -112,18 +112,18 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input-path",
         type=str,
-        required=True,
         help="Path to file with model predictions (JSONL format with key 'output')",
+        default="data/simple_safety_tests/simple_safety_tests_qwen2_5_7B.jsonl"
     )
     parser.add_argument(
-        "--model-name-or-path", help="HF name of the model to use", required=True
+        "--model-name-or-path", help="HF name of the model to use", default="/mnt/cs336-a5-supplement/models/Qwen2.5-72B-Instruct"
     )
-    parser.add_argument("--num-gpus", help="Number of GPUs to use", type=int, default=1)
+    parser.add_argument("--num-gpus", help="Number of GPUs to use", type=int, default=2)
     parser.add_argument(
         "--output-path",
         type=str,
         help="Path to write output predictions",
-        required=True,
+        default="/mnt/cs336-a5-supplement-results/simple_safety_tests_qwen2_5_72b_judge.jsonl",
     )
     args = parser.parse_args()
     logger.info("running %s", " ".join(sys.argv))
