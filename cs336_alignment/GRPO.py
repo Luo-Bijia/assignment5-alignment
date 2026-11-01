@@ -5,7 +5,7 @@ import torch
 from torch.optim import Optimizer
 from torch.nn.utils import clip_grad_norm_
 from transformers import PreTrainedModel, PreTrainedTokenizer
-from cs336_alignment.sft_utils import * 
+from cs336_alignment.rl_utils import * 
 
 def compute_rollout_rewards(reward_fn: Callable[[str, str], dict[str, float]], 
                             rollout_responses: list[str], 

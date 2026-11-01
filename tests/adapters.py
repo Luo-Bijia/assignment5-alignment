@@ -8,8 +8,8 @@ from torch import Tensor
 from torch.utils.data import Dataset
 from transformers import PreTrainedTokenizerBase
 from cs336_alignment.GRPO import *
-from cs336_alignment.sft_utils import *
-from cs336_alignment.Safety_RLHF.zero_shot_evaluation import *
+from cs336_alignment.rl_utils import *
+from cs336_alignment.supplement.zero_shot_evaluation import *
 
 def run_tokenize_prompt_and_output(
     prompt_strs: list[str],

@@ -27,7 +27,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer
 from vllm import LLM, SamplingParams
 from xopen import xopen
-from cs336_alignment.Safety_RLHF.zero_shot_evaluation import *
+from cs336_alignment.supplement.zero_shot_evaluation import *
 
 logger = logging.getLogger(__name__)
 
